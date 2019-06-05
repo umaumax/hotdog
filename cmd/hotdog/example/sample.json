@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "pecoole",
+    "Description": "fuzzy finder of urls in dotfiles difinition file",
+    "Globals": [
+      "None"
+    ],
+    "Output": [
+      "None"
+    ],
+    "Arguments": [
+      "None"
+    ],
+    "Returns": [
+      "None"
+    ]
+  },
+  {
+    "Name": "manpeco",
+    "Description": "man(1) commandual fuzzy finder",
+    "Globals": [
+      "None"
+    ],
+    "Arguments": [
+      "None"
+    ],
+    "Returns": [
+      "None"
+    ]
+  }
+]
